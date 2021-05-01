@@ -14,7 +14,7 @@ html {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
   color: #000;
-  background: #c0fefc;
+  background: #ffd66b;
 }
 
 .bbb {
@@ -79,7 +79,7 @@ img {
   border-bottom-color: #0a9e71;
 
   /*warna di header begronnya*/
-  background-color: #344fa1;
+  background-color: #fdb827;
   height: 45px;
   margin: 0px;
   padding: 0px;
@@ -100,13 +100,13 @@ img {
   width: 100%;
 
   /*	warna dibawah*/
-  background-color: #344fa1;
+  background-color: #fdb827;
   height: 70px;
   margin: 0px;
   padding: 0px;
   border-top-width: 5px;
   border-top-style: solid;
-  border-top-color: #344fa1;
+  border-top-color: #fdb827;
   text-align: center;
 }
 #footerbox {
@@ -140,12 +140,12 @@ img {
   border-bottom-width: 3px;
   border-bottom-style: solid;
   border-bottom-color: #black0;
-  border-left-color: #344fa1;
+  border-left-color: #fdb827;
   height: 32px;
   border-left-width: 5px;
   border-left-style: solid;
   /*warna hijau di kotak menu*/
-  background-color: #344fa1;
+  background-color: #fdb827;
   /*gambar di ujung sebelah kiri di kotak menu*/
   background-image: none;
   margin-top: 0px;
